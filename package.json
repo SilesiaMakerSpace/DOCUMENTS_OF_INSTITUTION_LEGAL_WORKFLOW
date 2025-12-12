@@ -1,0 +1,23 @@
+{
+  "name": "documents_of_institution_legal_workflow",
+  "version": "0.0.1",
+  "description": "www.sms.ngo/estabilishment",
+  "keywords": [
+    "sms"
+  ],
+  "homepage": "https://github.com/SilesiaMakerSpace/DOCUMENTS_OF_INSTITUTION_LEGAL_WORKFLOW#readme",
+  "bugs": {
+    "url": "https://github.com/SilesiaMakerSpace/DOCUMENTS_OF_INSTITUTION_LEGAL_WORKFLOW/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilesiaMakerSpace/DOCUMENTS_OF_INSTITUTION_LEGAL_WORKFLOW.git"
+  },
+  "license": "Artistic-2.0",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "task read"
+  }
+}
